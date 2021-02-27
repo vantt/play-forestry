@@ -1,4 +1,25 @@
 ---
 label: Blog Post
 hide_body: false
-fields: []
+fields:
+- name: sadfasdfasdf
+  type: text
+  config:
+    required: false
+  label: sadfasdfasdf
+- name: asdfasfasdf
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: asdfasfasdf
+- name: asdfasfasfasdf
+  type: image_gallery
+  config: {}
+  label: asdfasfasfasdf
