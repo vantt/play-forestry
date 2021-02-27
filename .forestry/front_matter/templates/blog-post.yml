@@ -23,3 +23,5 @@ fields:
   type: image_gallery
   config: {}
   label: asdfasfasfasdf
+pages:
+- post1.md
